@@ -5,4 +5,4 @@ Semantic Segmentaion : Consider an image and make a bounding box around each obj
                        If we paint the pixel around every obejct, it is semantic segmentation where every pixel represents either an object or non-object/background, UNET is designed to do this.
                        one step further is Instance Segmentaion.
 
-![GitHub Logo](/1.png)
+![GitHub Logo](images/1.png)
