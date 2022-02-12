@@ -16,5 +16,5 @@ Part on Left is Encoder(Downsampling) and Right Part is Decoder(Upsampling) and 
 The architecture consists of a contracting path to capture context and a symmetric expanding path that enables precise localization.
 The typical use of convolutional networks is on classification tasks, where the output to an image is a single class label. However, in many visual tasks, especially in biomedical image processing, the desired output should include localization, i.e., a class label is supposed to be assigned to each pixel.
 
-Training data in number of p[atches is much larger than number of training images.
+Training data in number of patches is much larger than number of training images.
 
